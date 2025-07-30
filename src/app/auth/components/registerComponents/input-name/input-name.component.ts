@@ -1,7 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import {
-  AbstractControl,
   FormControl,
   ReactiveFormsModule,
 } from '@angular/forms';

@@ -2,25 +2,19 @@
 @import "tailwindcss";
 
 @theme {
-    --color-primary: #0D00FF;
-    --color-primary-dark: #0600b3;
-    --color-text-primary: #ffffff;
-    --color-danger: oklch(57.7% 0.245 27.325);
-
+  --color-primary: #0d00ff;
+  --color-primary-dark: #0600b3;
+  --color-text-primary: #ffffff;
+  --color-danger: oklch(57.7% 0.245 27.325);
 }
 
 html,
 body {
-    height: 100%;
+  height: 100%;
 }
 
 body {
-    margin: 0;
-    font-family: Roboto, "Helvetica Neue", sans-serif;
-}
-
-body {
-
-    margin: 0px;
-    padding: 0px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
